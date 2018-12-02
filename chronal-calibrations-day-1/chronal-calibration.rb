@@ -1012,3 +1012,5 @@ while true
     sums.add(sum)
   end
 end
+
+# This code was used and then iterated upon to pass both parts one and two.
