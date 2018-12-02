@@ -995,14 +995,14 @@ input_array = "-2
 -18
 -10
 -9
--81046".split("\n")
+-81046".split("\n").map { |chr| chr.to_i }
 
 sum = 0
 sums = Set.new
 
 while true
   input_array.each do |change|
-    sum += change.to_i
+    sum += change
 
     if sums.include?(sum)
       puts sum
