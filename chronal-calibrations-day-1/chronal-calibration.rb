@@ -1013,4 +1013,6 @@ while true
   end
 end
 
-# This code was used and then iterated upon to pass both parts one and two.
+# This code was used and then iterated upon to pass both parts one and two. Final solution borrowed from https://github.com/gchan/advent-of-code-ruby
+# Mine was almost there, but I used sums = [] and input_array.inject in an until loop that wasn't quite getting there. I searched for the solution, tried
+# this and it worked, and since it was a working variation of mine I kept it. Kinda cheaty, I know.
