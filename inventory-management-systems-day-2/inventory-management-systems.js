@@ -1,3 +1,5 @@
+// This solution is just for Day Two, Part One.
+
 let inputs = `xdmgyjkpruszabaqwficevtjeo
 xdmgybkgwuszlbaqwfichvtneo
 xdmgyjkpruszlbcwwfichvtndo
